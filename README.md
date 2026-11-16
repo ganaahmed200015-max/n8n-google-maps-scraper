@@ -1,4 +1,4 @@
-#🍽️ n8n Google Maps Restaurant Scraper
+##🍽️ n8n Google Maps Restaurant Scraper
 
 An n8n workflow that runs a Google Maps scraper through Apify and saves the collected restaurant data to a newly created Google Sheet.
 
